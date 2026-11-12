@@ -3,3 +3,5 @@ cmake-build-debug/
 *.exe
 *.o
 ex1.cpp
+main
+ex1
