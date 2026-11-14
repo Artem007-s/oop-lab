@@ -17,8 +17,6 @@ public:
     ~Tree() = default;
     Tree(const Tree&) = delete;
     Tree& operator=(const Tree&) = delete;
-    Tree(Tree&&) = default;
-    Tree& operator=(Tree&&)  = default;
 
     bool isEmpty() const {
         return !root;

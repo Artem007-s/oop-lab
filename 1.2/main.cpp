@@ -5,7 +5,7 @@
 #include "DocumentVersion.h"
 #include "VersionHistory.h"
 
-void runAutomaticTests() {
+void run() {
     std::cout << "=== Запуск автоматических тестов ==\n";
 
     VersionHistory history;
@@ -49,7 +49,7 @@ void runAutomaticTests() {
 }
 
 int main() {
-    runAutomaticTests();
+    run();
 
     VersionHistory docHistory;
 
