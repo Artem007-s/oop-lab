@@ -65,9 +65,6 @@ int main() {
     std::cout << "\nТекущее дерево истории версий документа:\n";
     docHistory.print();
 
-    std::cout << "\nТекущая активная версия: [" << docHistory.getCurrent().getId()
-              << "] — \"" << docHistory.getCurrent().getContent()
-              << "\" (Сообщение: " << docHistory.getCurrent().getMessage() << ")\n";
-
+    std::cout << "\nТекущая активная версия: [" << docHistory.getCurrent().getId() << "]";
     return 0;
 }

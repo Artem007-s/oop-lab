@@ -98,7 +98,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.main.cpp (1)">
+  <component name="RunManager" selected="C/C++ File.main.cpp">
     <configuration name="ex1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled8" TARGET_NAME="ex1.cpp" CONFIG_NAME="ex1.cpp">
       <option name="sourceFile" value="ex1.cpp" />
       <method v="2">
@@ -119,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.main.cpp (1)" />
         <item itemvalue="C/C++ File.main.cpp" />
+        <item itemvalue="C/C++ File.main.cpp (1)" />
         <item itemvalue="C/C++ File.ex1.cpp" />
       </list>
     </recent_temporary>
@@ -139,7 +139,7 @@
       <workItem from="1794431370003" duration="3184000" />
       <workItem from="1794492889985" duration="18492000" />
       <workItem from="1794597817020" duration="5804000" />
-      <workItem from="1794651990762" duration="2564000" />
+      <workItem from="1794651990762" duration="6170000" />
     </task>
     <servers />
   </component>
